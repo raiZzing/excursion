@@ -1,0 +1,36 @@
+h1 {
+  font-family: Verdana;
+  font-weight: normal;
+  font-size: 50px;
+  color: white;
+  text-align: center;
+}
+html {
+  background-color: black;
+  text-align: center;
+}
+
+.download {
+  color: aquamarine;
+font-size: 16px;
+}
+
+#middle {
+  color: gray;
+  font-family: Verdana;
+  font-size: 21px
+}
+
+h2 {
+  font-family: Verdana;
+  font-weight: 300;
+  font-size: 42px;
+  color: white;
+}
+
+.excursion {
+  text-align: right;
+  color: gray;
+  font-family: verdana;
+  font-size: 21px;
+}
